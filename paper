@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Audio PONG</title>
+    <script src="../audio-video-player/javascript/Tone.js"></script>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="http://www.davidbardschwarz.com/courses/xxx-pong-styles.css"/>
+  </head>
+  <body> HERE"S WHERE THE PROJECT STARTS
+    <p><h3>The Unspoken Intensity of Inside</h3></p>
+    <p><font color="green">Inside is a narrative horror game that tells a story of a young 
+boy’s journey to unlock the secrets of an oppressive world. It's an immensely powerful 
+experience that draws players in with its immersive atmosphere and captivating visuals. 
+One moment in particular stands out as especially memorable: when the protagonist first 
+comes across a group of hostile guards. The tension created by the music, the 
+monochromatic visuals, and the menacing guards combined to create a sense of dread 
+that left me feeling uneasy. The guards stood in stark contrast to the isolated and peaceful 
+nature of the protagonist’s journey, providing a stark reminder of the dangers that 
+awaited him if he continued. It was a powerful moment that made me realize the gravity of 
+the situation and gave me a better understanding of the stakes involved.  Despite the 
+danger, I felt compelled to continue, eager to uncover the mysteries that lay hidden in this 
+oppressive world.  All of these elements combined to craft an unforgettable experience.      
+<p>The designers of Inside are clearly influenced by German Expressionism and heavily reference it
+  as you can see in Example 1:</p>
+  <p>Example 1: <IMG SRC="https://cdn.nivoli.com/adventuregamers/images/screenshots/36555/20170211224955_1.jpg"></p>
+    <p>This image reminds me of <i>https://th.bing.com/th/id/R.c6896347104f4709b2795324d52642dc?rik=uWGai4TqyrkYVw&riu=http%3a%2f%2f3.bp.blogspot.com%2f-s21tOkA6DKQ%2fTqVmBzZCQUI%2fAAAAAAAAAHA%2fIhJhvyo4WAI%2fs1600%2fbg_german_expressionism_by_fikey-d38mld5.jpg&ehk=r2Gp%2bRX43eaBgUIA9%2fZAbI1e2zglETw%2bYCaF17r574o%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1</i>. 
+Comparing these two images, the black and white contrast is what especially stands out to me, as the spotlights create a more dramatic scene. The lights in the artwork act as the spotlight camera does in the screenshot from Inside, and add to the tension felt by both the main character we play as and from ourselves as we control the character’s actions. 
+HERE IS WHERE THE SKETCH OF MY PROJECT STOPS; BELOW IS THE PONG GAME
