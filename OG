@@ -4,7 +4,7 @@
     <title>Audio PONG</title>
     <script src="../audio-video-player/javascript/Tone.js"></script>
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="http://www.davidbardschwarz.com/courses/xxx-pong-styles.css"/>
+    <link rel="stylesheet" href="https://jbirdy1412.github.io/Pong-With-New-Files/"/>
 
   </head>
 
@@ -36,3 +36,4 @@ oppressive world.  All of these elements combined to craft an unforgettable expe
 "</p>
 
 HERE IS WHERE THE SKETCH OF MY PROJECT STOPS; BELOW IS THE PONG GAME
+< https://jbirdy1412.github.io/Pong-With-New-Files/ >
